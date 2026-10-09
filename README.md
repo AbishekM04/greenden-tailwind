@@ -22,4 +22,4 @@ Greenden is a beautifully designed online platform for selling plants and flower
 
 This project demonstrates modern web development techniques and a visually appealing design, making it an excellent portfolio piece for showcasing front-end development skills.  
 
-Would you like to add any specific details or features? 😊# greenden-tailwind
+Would you like to add any specific details or features? # greenden-tailwind
